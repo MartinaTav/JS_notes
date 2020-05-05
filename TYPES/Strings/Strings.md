@@ -21,7 +21,7 @@ const song = `no way
 
 to live a
 
-LIVE! `
+LIFE! `
 ```
 it's extremely helpful for when you want to make html 
 
