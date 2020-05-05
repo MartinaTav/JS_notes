@@ -1,4 +1,4 @@
-# Nul & Undefined
+# Null & Undefined
 
 ```javascript
 let age;
