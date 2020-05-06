@@ -2,7 +2,7 @@
 
 Functions allow us to group together sets of statements.
 Functions can take in **arguments**
-When you **pass a data into a function they are called _arguments_ and then they perform some work and that is what is referred to as a statement and then sometimes they also return a value.**
+When you **pass a data into a function they are called _parameters_ and then they perform some work and that is what is referred to as a statement and then sometimes they also return a value.**
 
 ```javascript
 Math.max(10, 12);
